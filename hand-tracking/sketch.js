@@ -5,7 +5,7 @@
  *
  * This example demonstrates hand tracking on live video through ml5.handPose.
  */
-
+// TEST
 const CANVAS_WIDTH = 800;
 const CANVAS_HEIGHT = 600;
 const EACH_HAND_REPS = 4;
